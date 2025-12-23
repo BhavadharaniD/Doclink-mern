@@ -77,3 +77,14 @@ The system supports role‑based access for Patients and Doctors and includes re
 - UI is intentionally kept clean and simple
 - Focus is on real‑time features and core healthcare workflows
 - Payments module is excluded to prioritize consultation flow
+
+## Demo Credentials
+
+Doctor:
+Email: kumar@doclink.com  
+Password: 123456  
+
+Patient:
+Email: ravi@doclink.com  
+Password: 123456  
+
