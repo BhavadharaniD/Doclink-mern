@@ -35,6 +35,7 @@ export default function Login() {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-100">
+      <div >
       <form
         onSubmit={handleLogin}
         className="bg-white p-6 rounded shadow w-80 space-y-4"
@@ -66,6 +67,12 @@ export default function Login() {
           Login
         </button>
       </form>
+
+      <div className="text-xs text-gray-700 text-center mt-7 space-y-1">
+  <p><strong>Doctor:</strong> ravi@doclink.com | 123456</p>
+  <p><strong>Patient:</strong> kumar@doclink.com | 123456</p>
+</div>
+</div>
     </div>
   );
 }
